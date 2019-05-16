@@ -1,0 +1,14 @@
+---
+title: Vremenska prognoza
+author: Mina
+date: '2019-05-16'
+slug: vremenska-prognoza
+categories:
+  - R
+tags:
+  - R Markdown
+---{ r calculator}
+x<-c(4,7,2)
+y<-c(1,5,5)
+z<-x+y
+
